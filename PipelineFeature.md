@@ -1,4 +1,4 @@
-# Pipeline Configuration and Usage Tutorial
+# Pipeline Configurations and Usage Tutorial
 - Configure the pipeline config file and input files to run files against it
 - For reuse, download the config file and re-upload it when needed, or place it in /pipeline/defaultWebUIConfigs/ to auto-load in the web UI for all users
 
